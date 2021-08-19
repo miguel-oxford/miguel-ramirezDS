@@ -5,7 +5,7 @@ description: > # your text below (remove <br> elements if you don't need line br
   <br><br>
   Second description 
   <br><br>
-  <a href=" www.linkedin.com/in/miguel-ramirez-hernandez-2a6222181">View My LinkedIn Profile</a> 
+  <a href=<"www.linkedin.com/in/miguel-ramirez-hernandez-oxford ">View My LinkedIn Profile</a> 
   
 theme: jekyll-theme-cayman
 google_analytics: UA-000000-0 # your Google Analytics tracking ID here
